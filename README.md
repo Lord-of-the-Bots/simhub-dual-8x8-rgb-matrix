@@ -111,3 +111,22 @@ If double-clicking opens the script as text, open it with Python. The standard W
 - **An alert is missing:** check whether the game supplies the corresponding telemetry. Some alerts are specific to iRacing.
 
 When reporting a problem, include your SimHub version, game, matrix configuration and the affected mode or alert.
+
+## Support development
+
+You can support development with a cryptocurrency donation:
+
+BTC (Bitcoin):
+1NbtPNkofnKZRjLpULRjhKuAtbh12DovC9
+
+USDT, TRX (TRC20):
+TUgM6hPokF1vPUW8CRp77CgvF3YroabwFP
+
+TON:
+UQBLdOWJeVeVg4b0-HkQGNVV8HG6-xWS7moZOUfNBz2-Jf3u
+
+ETH (ERC20):
+0x14bba7b8b76ea4743a202bdee2144e4d558ddf93
+
+LTC (Litecoin):
+LRRS5YBeqfkYpw2jC2bDAWgpcgm7Wpu6pM
